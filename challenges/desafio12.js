@@ -7,6 +7,6 @@ db.produtos.updateMany(
     {
       nome: 1,
       _id: 0,
-      ingredientes: 1 
+      ingredientes: 1,
     })
     .pretty();
