@@ -4,4 +4,4 @@ db.produtos.find({}, {
     _id: 0,
     })
     .sort({ vendidos: 1 })
-    .pretty();;
+    .pretty();
