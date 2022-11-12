@@ -1,13 +1,12 @@
-# :construction: README customizado em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
+# Project MongoDB Commerce
 
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
+Esse projeto foi desenvolvido por mim ([Jaqueline Santos](www.linkedin.com/in/jaquelineapsantos)) utilizando MongoDB e Docker.
+Nele pratiquei todos os conceitos sobre Mongo ensinados na sessão 11 do módulo de Back-end da [Trybe](https://www.betrybe.com/)!
 
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+Foi usado o banco de dados commerce, que contém dados do cardápio do McDonald's, como ingredientes, valores nutricionais e dados fictícios de vendas.
+
+No total foram 32 requisitos e obtive 100% de aprovação.
+
+### Desafios
+A resolução de cada desafio está dentro do diretório `challenges` em cada um dos seus respectivos arquivos.
+
